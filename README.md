@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Animated-vedios-Generation-Crafting-Lifelike-3D-Talking-Faces-from-Static-Images-and-Sound</h2>
 
-<!--<h2> Animated-vedios-Generation-Crafting-Lifelike-3D-Talking-Faces-from-Static-Images-and-Sound</span> </h2> -->
+<!--<h2> Vocal Visage: Crafting Lifelike 3D Talking Faces from Static Images and Sound </span> </h2> -->
 
 
 <div>
