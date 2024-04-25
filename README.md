@@ -5,7 +5,7 @@
 
 
 <div>
-    <a target='_blank'>Adinarayana Thota </a>&emsp;
+    <a target='_blank'> </a>&emsp;
     <a></a></a>&emsp;
   
 </div>
